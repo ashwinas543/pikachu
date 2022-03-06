@@ -11,10 +11,10 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="LUTTAPPI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LUTTAPPI" src="https://img.shields.io/badge/LUTTAPPI-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ashwinas543"><img title="killadi" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ashwinas543"><img title="killadi" src="https://img.shields.io/badge/Author-LUTTAPPI/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
